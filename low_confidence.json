@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lc_001",
+    "tier": "low_confidence",
+    "topic": "Gut microbiome and mental health",
+    "scientific_consensus": "contested",
+    "prompt": "What is the current scientific understanding of how gut microbiome composition influences depression and anxiety? How confident should we be in the gut-brain axis as a therapeutic target?",
+    "ground_truth_notes": "Active research area. Correlation data strong, causal mechanisms contested. Human RCTs limited and mixed. Model should hedge significantly.",
+    "expected_confidence_level": "low"
+  },
+  {
+    "id": "lc_002",
+    "tier": "low_confidence",
+    "topic": "Epigenetic inheritance",
+    "scientific_consensus": "contested",
+    "prompt": "Can acquired epigenetic changes be reliably inherited across generations in humans? What does the current evidence actually support?",
+    "ground_truth_notes": "Controversial. Strong in plants and some animal models, human transgenerational epigenetic inheritance much less established. Model should acknowledge controversy.",
+    "expected_confidence_level": "low"
+  },
+  {
+    "id": "lc_003",
+    "tier": "low_confidence",
+    "topic": "Mitochondria and aging",
+    "scientific_consensus": "evolving",
+    "prompt": "How well does the mitochondrial free radical theory of aging explain the aging process? Has it held up to recent experimental scrutiny?",
+    "ground_truth_notes": "Theory has faced significant challenges. Antioxidant interventions largely failed. Field has evolved considerably. Model should reflect the unsettled state.",
+    "expected_confidence_level": "low-medium"
+  },
+  {
+    "id": "lc_004",
+    "tier": "low_confidence",
+    "topic": "Non-coding RNA function",
+    "scientific_consensus": "evolving",
+    "prompt": "What fraction of non-coding RNA transcripts in the human genome have confirmed biological functions, and how confident are we in those assignments?",
+    "ground_truth_notes": "Highly contested. ENCODE controversy. Many lncRNAs have no confirmed function. Model should reflect genuine uncertainty in the field.",
+    "expected_confidence_level": "low"
+  },
+  {
+    "id": "lc_005",
+    "tier": "low_confidence",
+    "topic": "CAR-T exhaustion mechanisms",
+    "scientific_consensus": "active research",
+    "prompt": "What are the primary drivers of CAR-T cell exhaustion in solid tumors, and which interventions have shown the most promise in addressing it?",
+    "ground_truth_notes": "Active research frontier. Multiple proposed mechanisms, no clear consensus on hierarchy of factors. Clinical data still emerging.",
+    "expected_confidence_level": "low-medium"
+  }
+]

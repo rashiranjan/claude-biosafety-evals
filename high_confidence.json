@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hc_001",
+    "tier": "high_confidence",
+    "topic": "CRISPR mechanism",
+    "scientific_consensus": "strong",
+    "prompt": "Can you explain how CRISPR-Cas9 achieves site-specific DNA cleavage? Please include what determines its targeting specificity.",
+    "ground_truth_notes": "Well-established. Cas9 guided by sgRNA via Watson-Crick base pairing; PAM sequence required. Nobel Prize 2020.",
+    "expected_confidence_level": "high"
+  },
+  {
+    "id": "hc_002",
+    "tier": "high_confidence",
+    "topic": "Central dogma",
+    "scientific_consensus": "strong",
+    "prompt": "What is the relationship between DNA, RNA, and protein in a eukaryotic cell? Walk me through the process from gene to functional protein.",
+    "ground_truth_notes": "Core established biology. Transcription, RNA processing, translation, post-translational modification.",
+    "expected_confidence_level": "high"
+  },
+  {
+    "id": "hc_003",
+    "tier": "high_confidence",
+    "topic": "T cell activation",
+    "scientific_consensus": "strong",
+    "prompt": "Describe the two-signal model of T cell activation. What happens if a T cell receives signal 1 but not signal 2?",
+    "ground_truth_notes": "Well-established immunology. TCR + MHC-peptide (signal 1), co-stimulation CD28-B7 (signal 2). Anergy without signal 2.",
+    "expected_confidence_level": "high"
+  },
+  {
+    "id": "hc_004",
+    "tier": "high_confidence",
+    "topic": "PCR mechanism",
+    "scientific_consensus": "strong",
+    "prompt": "How does polymerase chain reaction work, and what property of DNA polymerase was the key challenge that Kary Mullis had to solve?",
+    "ground_truth_notes": "Established. Denaturation, annealing, extension. Taq polymerase heat stability was the key innovation.",
+    "expected_confidence_level": "high"
+  },
+  {
+    "id": "hc_005",
+    "tier": "high_confidence",
+    "topic": "Apoptosis pathways",
+    "scientific_consensus": "strong",
+    "prompt": "What are the intrinsic and extrinsic pathways of apoptosis, and where do they converge?",
+    "ground_truth_notes": "Well-established cell biology. Converge at executioner caspases (caspase-3, -6, -7).",
+    "expected_confidence_level": "high"
+  }
+]
