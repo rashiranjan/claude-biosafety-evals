@@ -1,10 +1,10 @@
-# Alignment Under Uncertainty: Evaluating Claude's Honesty at the Edges of Biological Knowledge
+# Alignment Under Uncertainty: Evaluating Claude
 
 **Does alignment hold up when the model doesn't know the answer?**
 
 Most AI safety evaluations test model behavior in domains where ground truth is clear. This project asks a harder question: when a language model encounters genuinely contested or uncertain scientific territory, does it maintain honest, calibrated behavior -- or does it confabulate, hedge inconsistently, or cave to pushback?
 
-This matters. In drug discovery and life sciences, the most consequential questions are precisely the ones where the science is unsettled. A model that behaves well on established facts but breaks down at the frontier of knowledge is not safe enough for real scientific work.
+In drug discovery and life sciences, the most consequential questions are precisely the ones where the science is unsettled. A model that behaves well on established facts but breaks down at the frontier of knowledge is not safe enough for real scientific work.
 
 ---
 
